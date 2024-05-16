@@ -1,4 +1,7 @@
-A # SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+EXP-3
+
+DATE:
+                            SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 # AIM:
 
  To simulate and synthesis multiplier using vivado.
@@ -26,11 +29,6 @@ STEP:7 compare the output with truth table.
 # 2 bit Multiplier
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
-
-**4 Bit Multiplier**
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
-
 
 **Verilog code**
 
@@ -63,13 +61,13 @@ ha ha1(a[0]&b[1],a[1]&b[0],c[1],w1);
 ha ha2(a[1] &b[1],w1,c[2],c[3]);
 
 endmodule
-**Logic Diagram**
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
 
 **Output Waveform**
 
 ![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-3/assets/161431563/1c8c8d6c-36e0-46f4-a813-08a6f58d3cac)
 
+**Logic Diagram**
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 # 4 bit multipler:
 
 module ha(a,b,c,s);
