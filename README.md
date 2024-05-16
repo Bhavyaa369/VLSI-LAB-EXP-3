@@ -1,6 +1,7 @@
 EXP-3
 
 DATE:
+                           
                             SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 # AIM:
 
