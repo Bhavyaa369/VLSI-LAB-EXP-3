@@ -1,4 +1,4 @@
-# SIMULATION AND IMPLEMENTATION OF MULTIPLIER
+A # SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 # AIM:
 
  To simulate and synthesis multiplier using vivado.
@@ -63,6 +63,12 @@ ha ha1(a[0]&b[1],a[1]&b[0],c[1],w1);
 ha ha2(a[1] &b[1],w1,c[2],c[3]);
 
 endmodule
+**Logic Diagram**
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
+
+**Output Waveform**
+
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-3/assets/161431563/1c8c8d6c-36e0-46f4-a813-08a6f58d3cac)
 
 # 4 bit multipler:
 
@@ -133,20 +139,15 @@ fa fa7(w[14],x[2]&y[3],w[16],z[5],w[17]);
 fa fa8(w[11],x[3]&y[3],w[17],z[6],z[7]);
 
 endmodule
+**Logic Diagram**
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
 **Output Waveform**
-
-# 2 bit multiplier:
-
-![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-3/assets/161431563/1c8c8d6c-36e0-46f4-a813-08a6f58d3cac)
-
-# 4 bit multiplier:
-
 ![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-3/assets/161431563/772ecbc7-739e-439a-bfeb-89c37ba93966)
 
 **Result**
 
- Thus,the simulation and synthesis of multipliers by using vivado has been successfully excecuted and verified.
+    Thus,the simulation and synthesis of multipliers by using vivado has been successfully excecuted and verified.
 
 
 
