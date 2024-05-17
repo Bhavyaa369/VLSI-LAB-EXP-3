@@ -56,7 +56,7 @@ Output
 Logic Diagram
 2 bit Multiplier
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-3/assets/161432255/8381c0eb-8694-43d1-a56d-ce2c8b813adc)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-3/assets/161432255/8381c0eb-8694-43d1-a56d-ce2c8b813adc)
 
 
 Verilog code
@@ -100,7 +100,7 @@ Output Waveform
 OUTPUT
 
 
-![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-3/assets/161432255/12637e2a-c11f-4143-a475-e45bb29443a6)
+![image](https://github.co/Bhavyaa369/VLSI-LAB-EXP-3/assets/161432255/12637e2a-c11f-4143-a475-e45bb29443a6)
 
 Result:
        Hence the 2 bit multiplier and 4 bit multiplier are simulated and synthesised using Vivado 2023.2.
